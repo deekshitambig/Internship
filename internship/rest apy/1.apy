@@ -1,0 +1,5 @@
+response=request.get()
+venv\Scripts\activate
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+venv\Scripts\activate
+

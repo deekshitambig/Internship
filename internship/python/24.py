@@ -1,1 +1,2 @@
-for i in range
+for i in range(6):
+    print("*"*i)
